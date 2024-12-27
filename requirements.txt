@@ -1,0 +1,6 @@
+python==3.10.*
+deep_translator==1.11.4
+openreview_py==1.45.0
+Requests==2.32.3
+torch==2.5.1
+transformers==4.47.1
